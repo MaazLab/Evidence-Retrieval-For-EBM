@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Welcome to the Evidence Retrieval For EBM repository. This research work focuses on developing an advanced system to assist medical practitioners, specifically physicians, in retrieving evidence-based information relevant to diseases and treatments. The system aims to bridge the gap between formulated queries and retrieved documents by improving the relevancy and accuracy of the retrieved information.
+Welcome to the Evidence Retrieval For EBM repository. This research work focuses on developing an advanced system to assist medical practitioners, in retrieving evidence-based information relevant to diseases and treatments. The system aims to bridge the gap between formulated queries and retrieved documents by improving the relevancy and accuracy of the retrieved information.
 
 ## System Overview
 The Evidence Retrieval System for EBM is designed to address the challenges faced in searching and evaluating a vast amount of medical literature. Our system incorporates the Patient Intervention Comparison and Outcome (PICO) framework, which is widely used to classify and identify patients' diseases. It consists of the following components:
