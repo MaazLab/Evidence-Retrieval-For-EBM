@@ -1,5 +1,5 @@
 /dataset/metadata.csv
-/dataset/labelled dataset/original/*
-/dataset/clinical_trails/pmc/*
+/dataset/labelled dataset/original/
+/dataset/clinical_trails/pmc/
 /EBM-NLP
 *zip
