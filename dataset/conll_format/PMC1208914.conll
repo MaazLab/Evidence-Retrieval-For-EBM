@@ -58,9 +58,9 @@ Our -X- _ O
 goal -X- _ O
 is -X- _ O
 to -X- _ O
-reduce -X- _ B-Outcome
-the -X- _ I-Outcome
-aerosolizability -X- _ I-Outcome
+reduce -X- _ O
+the -X- _ O
+aerosolizability -X- _ B-Outcome
 of -X- _ I-Outcome
 respiratory -X- _ I-Outcome
 secretions -X- _ I-Outcome
@@ -132,8 +132,8 @@ was -X- _ O
 assessed -X- _ O
 on -X- _ O
 the -X- _ O
-frog -X- _ O
-palate -X- _ O
+frog -X- _ B-Patient
+palate -X- _ I-Patient
 , -X- _ O
 elasticity -X- _ O
 in -X- _ O
@@ -163,7 +163,7 @@ maneuver. -X- _ O
 We -X- _ O
 tested -X- _ O
 two -X- _ O
-mucomodulators -X- _ B-Intervention
+mucomodulators -X- _ O
 : -X- _ O
 sodium -X- _ B-Intervention
 tetraborate -X- _ I-Intervention
@@ -183,6 +183,7 @@ C -X- _ I-Intervention
 " -X- _ I-Intervention
 ) -X- _ I-Intervention
 . -X- _ O
+
 RESULTS -X- _ O
 : -X- _ O
 Mucociliary -X- _ B-Outcome
@@ -197,12 +198,12 @@ viscoelastic -X- _ I-Outcome
 samples -X- _ I-Outcome
 compared -X- _ O
 to -X- _ O
-non-elastic -X- _ B-Comparison
-, -X- _ I-Comparison
-non-viscous -X- _ I-Comparison
-or -X- _ I-Comparison
-viscous-only -X- _ I-Comparison
-samples. -X- _ I-Comparison
+non-elastic -X- _ B-Comparision
+, -X- _ I-Comparision
+non-viscous -X- _ I-Comparision
+or -X- _ I-Comparision
+viscous-only -X- _ I-Comparision
+samples. -X- _ I-Comparision
 Spinnability -X- _ O
 ranged -X- _ O
 from -X- _ O
@@ -217,6 +218,7 @@ cm -X- _ O
 , -X- _ O
 and -X- _ O
 the -X- _ O
+
 amount -X- _ O
 of -X- _ O
 MS -X- _ B-Intervention
@@ -261,7 +263,7 @@ CONCLUSION -X- _ O
 The -X- _ O
 aerosolizability -X- _ O
 of -X- _ O
-MS -X- _ O
+MS -X- _ B-Intervention
 was -X- _ O
 modified -X- _ O
 by -X- _ O

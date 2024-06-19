@@ -41,10 +41,10 @@ this -X- _ O
 routine. -X- _ O
 Currently -X- _ O
 , -X- _ O
-alternative -X- _ O
-hand -X- _ O
-hygiene -X- _ O
-techniques -X- _ O
+alternative -X- _ B-Comparision
+hand -X- _ I-Comparision
+hygiene -X- _ I-Comparision
+techniques -X- _ I-Comparision
 are -X- _ O
 being -X- _ O
 considered -X- _ O
@@ -60,7 +60,9 @@ of -X- _ O
 antimicrobial -X- _ B-Intervention
 rinse-free -X- _ I-Intervention
 hand -X- _ I-Intervention
-sanitizers. -X- _ I-Intervention
+sanitizers -X- _ I-Intervention
+. -X- _ O
+
 METHODS -X- _ O
 : -X- _ O
 A -X- _ O
@@ -116,7 +118,9 @@ was -X- _ O
 the -X- _ O
 primary -X- _ O
 outcome -X- _ O
-variable. -X- _ O
+variable -X- _ O
+. -X- _ O
+
 RESULTS -X- _ O
 : -X- _ O
 Six -X- _ O
@@ -180,7 +184,9 @@ in -X- _ O
 all -X- _ O
 5 -X- _ O
 published -X- _ O
-studies. -X- _ O
+studies -X- _ O
+. -X- _ O
+
 CONCLUSIONS -X- _ O
 : -X- _ O
 The -X- _ O
@@ -238,8 +244,7 @@ parental -X- _ I-Outcome
 absenteeism -X- _ I-Outcome
 , -X- _ O
 a -X- _ O
-well- -X- _ O
-designed -X- _ O
+well-designed -X- _ O
 and -X- _ O
 analyzed -X- _ O
 trial -X- _ O
