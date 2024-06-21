@@ -73,7 +73,9 @@ groups -X- _ O
 and -X- _ O
 additional -X- _ O
 relevant -X- _ O
-studies. -X- _ O
+studies -X- _ O
+. -X- _ O
+
 METHODS -X- _ O
 / -X- _ O
 DESIGN -X- _ O
@@ -122,8 +124,8 @@ use -X- _ I-Intervention
 of -X- _ I-Intervention
 facemasks’ -X- _ I-Intervention
 versus -X- _ O
-‘standard -X- _ B-Comparison
-measures’ -X- _ I-Comparison
+‘standard -X- _ B-Comparision
+measures’ -X- _ I-Comparision
 among -X- _ O
 pilgrims -X- _ O
 over -X- _ O
@@ -136,6 +138,7 @@ be -X- _ O
 done -X- _ O
 by -X- _ O
 accommodation -X- _ O
+
 tents -X- _ O
 with -X- _ O
 a -X- _ O
@@ -204,20 +207,22 @@ whether -X- _ O
 mask -X- _ O
 use -X- _ O
 significantly -X- _ O
-reduces -X- _ O
-the -X- _ O
-frequency -X- _ O
-of -X- _ O
-laboratory-confirmed -X- _ O
-respiratory -X- _ O
-viral -X- _ O
-infection -X- _ O
-and -X- _ O
-syndromic -X- _ O
-RTI -X- _ O
+reduces -X- _ B-Outcome
+the -X- _ I-Outcome
+frequency -X- _ I-Outcome
+of -X- _ I-Outcome
+laboratory-confirmed -X- _ I-Outcome
+respiratory -X- _ I-Outcome
+viral -X- _ I-Outcome
+infection -X- _ I-Outcome
+and -X- _ I-Outcome
+syndromic -X- _ I-Outcome
+RTI -X- _ I-Outcome
 as -X- _ O
 primary -X- _ O
-outcomes. -X- _ O
+outcomes -X- _ O
+. -X- _ O
+
 CONCLUSIONS -X- _ O
 : -X- _ O
 This -X- _ O
@@ -234,11 +239,11 @@ standard -X- _ O
 facemask -X- _ O
 use -X- _ O
 in -X- _ O
-preventing -X- _ O
-viral -X- _ O
-respiratory -X- _ O
-tract -X- _ O
-infections -X- _ O
+preventing -X- _ B-Outcome
+viral -X- _ I-Outcome
+respiratory -X- _ I-Outcome
+tract -X- _ I-Outcome
+infections -X- _ I-Outcome
 at -X- _ O
 mass -X- _ O
 gatherings. -X- _ O

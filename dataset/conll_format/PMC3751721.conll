@@ -132,11 +132,11 @@ insufflate -X- _ O
 the -X- _ O
 abdomen -X- _ O
 of -X- _ O
-patients -X- _ O
-undergoing -X- _ O
-laparoscopic -X- _ O
-abdominal -X- _ O
-procedures -X- _ O
+patients -X- _ B-Patient
+undergoing -X- _ I-Patient
+laparoscopic -X- _ I-Patient
+abdominal -X- _ I-Patient
+procedures -X- _ I-Patient
 due -X- _ O
 to -X- _ O
 its -X- _ O

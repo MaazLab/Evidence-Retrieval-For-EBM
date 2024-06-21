@@ -71,7 +71,9 @@ elastance -X- _ O
 in -X- _ O
 patients -X- _ B-Patient
 with -X- _ I-Patient
-ARDS. -X- _ I-Patient
+ARDS -X- _ I-Patient
+. -X- _ O
+
 METHODS -X- _ O
 AND -X- _ O
 DESIGN -X- _ O
@@ -155,14 +157,14 @@ control -X- _ O
 group -X- _ O
 will -X- _ O
 have -X- _ O
-PEEP -X- _ B-Comparison
-selected -X- _ I-Comparison
-per -X- _ I-Comparison
-standard -X- _ I-Comparison
-practice -X- _ I-Comparison
-( -X- _ I-Comparison
-SPV -X- _ I-Comparison
-) -X- _ I-Comparison
+PEEP -X- _ B-Comparision
+selected -X- _ I-Comparision
+per -X- _ I-Comparision
+standard -X- _ I-Comparision
+practice -X- _ I-Comparision
+( -X- _ I-Comparision
+SPV -X- _ I-Comparision
+) -X- _ I-Comparision
 . -X- _ O
 Patients -X- _ O
 randomised -X- _ O
@@ -330,7 +332,9 @@ and -X- _ O
 hospital -X- _ O
 and -X- _ O
 90-day -X- _ O
-mortality. -X- _ O
+mortality -X- _ O
+. -X- _ O
+
 DISCUSSION -X- _ O
 : -X- _ O
 The -X- _ O
@@ -359,8 +363,7 @@ elastance -X- _ I-Intervention
 using -X- _ O
 an -X- _ O
 objective -X- _ O
-model- -X- _ O
-based -X- _ O
+model-based -X- _ O
 method -X- _ O
 able -X- _ O
 to -X- _ O
@@ -378,10 +381,10 @@ to -X- _ O
 demonstrate -X- _ O
 the -X- _ O
 hypothesized -X- _ O
-benefit -X- _ O
-of -X- _ O
-patient-specific -X- _ O
-PEEP -X- _ O
+benefit -X- _ B-Outcome
+of -X- _ I-Outcome
+patient-specific -X- _ I-Outcome
+PEEP -X- _ I-Outcome
 and -X- _ O
 attest -X- _ O
 to -X- _ O
@@ -398,7 +401,9 @@ in -X- _ O
 the -X- _ O
 critical -X- _ O
 care -X- _ O
-environment. -X- _ O
+environment -X- _ O
+. -X- _ O
+
 TRIAL -X- _ O
 REGISTRATION -X- _ O
 : -X- _ O

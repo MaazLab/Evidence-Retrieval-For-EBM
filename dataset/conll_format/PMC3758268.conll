@@ -136,13 +136,13 @@ can -X- _ O
 be -X- _ O
 used -X- _ O
 to -X- _ O
-produce -X- _ O
-posterior -X- _ O
-distributions -X- _ O
-of -X- _ O
-population -X- _ O
-level -X- _ O
-epidemic -X- _ O
-characteristics -X- _ O
+produce -X- _ B-Outcome
+posterior -X- _ I-Outcome
+distributions -X- _ I-Outcome
+of -X- _ I-Outcome
+population -X- _ I-Outcome
+level -X- _ I-Outcome
+epidemic -X- _ I-Outcome
+characteristics -X- _ I-Outcome
 . -X- _ O
 

@@ -59,8 +59,7 @@ symptoms -X- _ O
 represent -X- _ O
 transient -X- _ O
 , -X- _ O
-viral- -X- _ O
-induced -X- _ O
+viral-induced -X- _ O
 wheezing -X- _ O
 , -X- _ O
 or -X- _ O
@@ -78,7 +77,7 @@ child -X- _ O
 may -X- _ O
 experience -X- _ O
 recurrent -X- _ O
-wheezing -X- _ O
+wheezing -X- _ B-Outcome
 and -X- _ O
 develop -X- _ O
 asthma. -X- _ O

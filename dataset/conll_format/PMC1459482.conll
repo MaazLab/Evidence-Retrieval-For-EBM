@@ -41,19 +41,19 @@ contain -X- _ O
 outbreaks. -X- _ O
 Immunization -X- _ O
 with -X- _ O
-DNA -X- _ B-Intervention
-and -X- _ I-Intervention
-/ -X- _ I-Intervention
-or -X- _ I-Intervention
-replication-defective -X- _ I-Intervention
-adenoviral -X- _ I-Intervention
-vectors -X- _ I-Intervention
-( -X- _ I-Intervention
-rAd -X- _ I-Intervention
-) -X- _ I-Intervention
-encoding -X- _ I-Intervention
-the -X- _ I-Intervention
-Ebola -X- _ I-Intervention
+DNA -X- _ O
+and -X- _ O
+/ -X- _ O
+or -X- _ O
+replication-defective -X- _ O
+adenoviral -X- _ O
+vectors -X- _ O
+( -X- _ O
+rAd -X- _ O
+) -X- _ O
+encoding -X- _ O
+the -X- _ O
+Ebola -X- _ B-Intervention
 glycoprotein -X- _ I-Intervention
 ( -X- _ I-Intervention
 GP -X- _ I-Intervention
@@ -107,7 +107,9 @@ optimal -X- _ O
 for -X- _ O
 a -X- _ O
 human -X- _ O
-vaccine. -X- _ O
+vaccine -X- _ O
+. -X- _ O
+
 METHODS -X- _ O
 AND -X- _ O
 FINDINGS -X- _ O
@@ -124,7 +126,7 @@ the -X- _ O
 efficacy -X- _ O
 of -X- _ O
 mutant -X- _ O
-GPs -X- _ O
+GPs -X- _ B-Intervention
 from -X- _ O
 multiple -X- _ O
 Ebola -X- _ O
@@ -153,7 +155,7 @@ NP. -X- _ O
 Deletion -X- _ O
 of -X- _ O
 the -X- _ O
-GP -X- _ O
+GP -X- _ B-Intervention
 transmembrane -X- _ O
 domain -X- _ O
 eliminated -X- _ O
@@ -199,7 +201,7 @@ NP. -X- _ O
 The -X- _ O
 minimal -X- _ O
 effective -X- _ O
-rAd -X- _ O
+rAd -X- _ B-Intervention
 dose -X- _ O
 was -X- _ O
 established -X- _ O
@@ -216,7 +218,9 @@ lower -X- _ O
 than -X- _ O
 that -X- _ O
 used -X- _ O
-previously. -X- _ O
+previously -X- _ O
+. -X- _ O
+
 CONCLUSIONS -X- _ O
 : -X- _ O
 Expression -X- _ B-Outcome

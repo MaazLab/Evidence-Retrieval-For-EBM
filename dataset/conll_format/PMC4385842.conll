@@ -52,8 +52,7 @@ recruitment -X- _ I-Outcome
 of -X- _ I-Outcome
 G3BP1 -X- _ I-Outcome
 , -X- _ I-Outcome
-c- -X- _ I-Outcome
-Myc -X- _ I-Outcome
+c-Myc -X- _ I-Outcome
 mRNA -X- _ I-Outcome
 , -X- _ I-Outcome
 and -X- _ I-Outcome
@@ -68,7 +67,7 @@ complex. -X- _ I-Outcome
 Subsequently -X- _ O
 , -X- _ O
 this -X- _ O
-tylophorine -X- _ O
+tylophorine -X- _ B-Intervention
 targeted -X- _ O
 ribonucleoprotein -X- _ O
 complex -X- _ O
@@ -113,8 +112,7 @@ Consequently -X- _ O
 , -X- _ O
 tylophorine -X- _ B-Outcome
 downregulates -X- _ I-Outcome
-c- -X- _ I-Outcome
-Myc -X- _ I-Outcome
+c-Myc -X- _ I-Outcome
 and -X- _ I-Outcome
 cyclins -X- _ I-Outcome
 D1 -X- _ I-Outcome
@@ -129,8 +127,7 @@ and -X- _ I-Outcome
 suppression -X- _ I-Outcome
 of -X- _ I-Outcome
 both -X- _ I-Outcome
-processing- -X- _ I-Outcome
-body -X- _ I-Outcome
+processing-body -X- _ I-Outcome
 formation -X- _ I-Outcome
 and -X- _ I-Outcome
 the -X- _ I-Outcome
@@ -186,8 +183,7 @@ Thus -X- _ O
 tylophorine -X- _ B-Outcome
 compounds -X- _ I-Outcome
 exert -X- _ I-Outcome
-anti- -X- _ I-Outcome
-cancer -X- _ I-Outcome
+anti-cancer -X- _ I-Outcome
 activity -X- _ I-Outcome
 predominantly -X- _ I-Outcome
 by -X- _ I-Outcome

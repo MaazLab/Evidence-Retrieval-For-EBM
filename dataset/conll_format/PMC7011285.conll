@@ -88,7 +88,9 @@ and -X- _ O
 stage -X- _ O
 one -X- _ O
 analysis -X- _ O
-plan. -X- _ O
+plan -X- _ O
+. -X- _ O
+
 METHODS -X- _ O
 : -X- _ O
 APRICOT -X- _ O
@@ -103,7 +105,7 @@ trial -X- _ O
 of -X- _ O
 anakinra -X- _ B-Intervention
 versus -X- _ O
-placebo -X- _ B-Comparison
+placebo -X- _ B-Comparision
 , -X- _ O
 with -X- _ O
 two -X- _ O
@@ -168,7 +170,7 @@ severity -X- _ O
 participant-reported -X- _ O
 measures -X- _ O
 of -X- _ O
-efficacy -X- _ O
+efficacy -X- _ B-Outcome
 and -X- _ O
 safety -X- _ O
 measures. -X- _ O
@@ -191,6 +193,7 @@ the -X- _ O
 pre-specified -X- _ O
 statistical -X- _ O
 analysis -X- _ O
+
 plan -X- _ O
 for -X- _ O
 each -X- _ O
@@ -218,7 +221,9 @@ stage -X- _ O
 of -X- _ O
 the -X- _ O
 APRICOT -X- _ O
-trial. -X- _ O
+trial -X- _ O
+. -X- _ O
+
 DISCUSSION -X- _ O
 : -X- _ O
 This -X- _ O
@@ -260,7 +265,9 @@ in -X- _ O
 the -X- _ O
 treatment -X- _ O
 of -X- _ O
-PPP. -X- _ B-Patient
+PPP -X- _ B-Patient
+. -X- _ O
+
 TRIAL -X- _ O
 REGISTRATION -X- _ O
 : -X- _ O
