@@ -7,17 +7,17 @@ R -X- _ I-Intervention
 ( -X- _ I-Intervention
 Vpr -X- _ I-Intervention
 ) -X- _ I-Intervention
-, -X- _ I-Intervention
-a -X- _ I-Intervention
-protein -X- _ I-Intervention
-of -X- _ I-Intervention
-human -X- _ I-Intervention
-immunodeficiency -X- _ I-Intervention
-virus -X- _ I-Intervention
-type-1 -X- _ I-Intervention
-( -X- _ I-Intervention
-HIV-1 -X- _ I-Intervention
-) -X- _ I-Intervention
+, -X- _ O
+a -X- _ O
+protein -X- _ O
+of -X- _ O
+human -X- _ O
+immunodeficiency -X- _ O
+virus -X- _ O
+type-1 -X- _ O
+( -X- _ O
+HIV-1 -X- _ O
+) -X- _ O
 with -X- _ O
 various -X- _ O
 biological -X- _ O
@@ -127,6 +127,7 @@ syndrome -X- _ O
 AIDS -X- _ O
 ) -X- _ O
 . -X- _ O
+
 RESULTS -X- _ O
 : -X- _ O
 We -X- _ O
@@ -225,7 +226,9 @@ was -X- _ I-Outcome
 administered -X- _ I-Outcome
 to -X- _ I-Outcome
 hL1-Tg -X- _ I-Outcome
-mice. -X- _ I-Outcome
+mice -X- _ I-Outcome
+. -X- _ O
+
 CONCLUSIONS -X- _ O
 : -X- _ O
 Blood -X- _ B-Outcome

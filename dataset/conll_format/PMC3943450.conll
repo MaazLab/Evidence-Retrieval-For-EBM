@@ -49,8 +49,8 @@ their -X- _ O
 inclusion -X- _ O
 in -X- _ O
 an -X- _ O
-anti-Leishmania -X- _ O
-vaccine -X- _ O
+anti-Leishmania -X- _ B-Intervention
+vaccine -X- _ I-Intervention
 has -X- _ O
 been -X- _ O
 investigated -X- _ O
@@ -65,8 +65,8 @@ context -X- _ O
 , -X- _ O
 we -X- _ O
 previously -X- _ O
-immunized -X- _ B-Outcome
-dogs -X- _ I-Outcome
+immunized -X- _ B-Patient
+dogs -X- _ I-Patient
 with -X- _ B-Intervention
 a -X- _ I-Intervention
 vaccine -X- _ I-Intervention
@@ -100,8 +100,7 @@ in -X- _ O
 both -X- _ O
 anti-saliva -X- _ O
 and -X- _ O
-anti- -X- _ O
-Leishmania -X- _ O
+anti-Leishmania -X- _ O
 IgG -X- _ O
 isotypes -X- _ O
 , -X- _ O
@@ -120,7 +119,9 @@ cells -X- _ O
 and -X- _ O
 high -X- _ O
 NO -X- _ O
-production. -X- _ O
+production -X- _ O
+. -X- _ O
+
 METHODS -X- _ O
 : -X- _ O
 We -X- _ O
@@ -235,7 +236,9 @@ reduction -X- _ I-Outcome
 of -X- _ I-Outcome
 splenic -X- _ I-Outcome
 parasite -X- _ I-Outcome
-load. -X- _ I-Outcome
+load -X- _ I-Outcome
+. -X- _ O
+
 CONCLUSIONS -X- _ O
 : -X- _ O
 These -X- _ O

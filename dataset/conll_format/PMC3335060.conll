@@ -70,7 +70,9 @@ exhibited -X- _ O
 an -X- _ O
 immunopathologic-type -X- _ O
 lung -X- _ O
-disease. -X- _ O
+disease -X- _ O
+. -X- _ O
+
 DESIGN -X- _ O
 : -X- _ O
 Four -X- _ B-Intervention
@@ -134,6 +136,7 @@ sacrificed -X- _ O
 for -X- _ O
 serum -X- _ O
 antibody -X- _ O
+
 measurements -X- _ O
 or -X- _ O
 challenged -X- _ O
@@ -157,7 +160,9 @@ obtained -X- _ O
 for -X- _ O
 virus -X- _ O
 and -X- _ O
-histopathology. -X- _ O
+histopathology -X- _ O
+. -X- _ O
+
 RESULTS -X- _ O
 : -X- _ O
 All -X- _ B-Outcome
@@ -176,7 +181,7 @@ alum -X- _ I-Outcome
 significantly -X- _ I-Outcome
 increasing -X- _ I-Outcome
 responses. -X- _ I-Outcome
-Significant -X- _ I-Outcome
+Significant -X- _ B-Outcome
 reductions -X- _ I-Outcome
 of -X- _ I-Outcome
 SARS-CoV -X- _ I-Outcome
@@ -193,7 +198,7 @@ and -X- _ I-Outcome
 prior -X- _ I-Outcome
 live -X- _ I-Outcome
 SARS-CoV. -X- _ I-Outcome
-All -X- _ I-Outcome
+All -X- _ B-Outcome
 mice -X- _ I-Outcome
 exhibited -X- _ I-Outcome
 histopathologic -X- _ I-Outcome
@@ -232,7 +237,7 @@ infection -X- _ I-Outcome
 occurred -X- _ I-Outcome
 in -X- _ I-Outcome
 all. -X- _ I-Outcome
-Histopathology -X- _ I-Outcome
+Histopathology -X- _ B-Outcome
 seen -X- _ I-Outcome
 in -X- _ I-Outcome
 animals -X- _ I-Outcome
@@ -240,8 +245,7 @@ given -X- _ I-Outcome
 one -X- _ I-Outcome
 of -X- _ I-Outcome
 the -X- _ I-Outcome
-SARS- -X- _ I-Outcome
-CoV -X- _ I-Outcome
+SARS-CoV -X- _ I-Outcome
 vaccines -X- _ I-Outcome
 was -X- _ I-Outcome
 uniformly -X- _ I-Outcome
@@ -258,7 +262,7 @@ with -X- _ I-Outcome
 special -X- _ I-Outcome
 eosinophil -X- _ I-Outcome
 stains. -X- _ I-Outcome
-The -X- _ I-Outcome
+The -X- _ B-Outcome
 pathologic -X- _ I-Outcome
 changes -X- _ I-Outcome
 seen -X- _ I-Outcome
@@ -269,7 +273,9 @@ groups -X- _ I-Outcome
 lacked -X- _ I-Outcome
 the -X- _ I-Outcome
 eosinophil -X- _ I-Outcome
-prominence. -X- _ I-Outcome
+prominence -X- _ I-Outcome
+. -X- _ O
+
 CONCLUSIONS -X- _ O
 : -X- _ O
 These -X- _ B-Outcome

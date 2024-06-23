@@ -87,9 +87,9 @@ FCGS. -X- _ B-Patient
 Recombinant -X- _ B-Intervention
 feline -X- _ I-Intervention
 interferon-omega -X- _ I-Intervention
-( -X- _ I-Intervention
-rFeIFN-ω -X- _ I-Intervention
-) -X- _ I-Intervention
+( -X- _ O
+rFeIFN-ω -X- _ O
+) -X- _ O
 is -X- _ O
 an -X- _ O
 immunomodulatory -X- _ O
@@ -227,7 +227,8 @@ the -X- _ I-Outcome
 owners -X- _ I-Outcome
 reported -X- _ I-Outcome
 a -X- _ I-Outcome
-significant -X- _ I-Outcome
+
+significant -X- _ B-Outcome
 relief -X- _ I-Outcome
 of -X- _ I-Outcome
 pain -X- _ I-Outcome
